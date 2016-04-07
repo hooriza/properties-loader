@@ -1,0 +1,14 @@
+{
+  "name": "properties-loader",
+  "version": "0.0.1",
+  "description": "Properties loader for webpack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hooriza/properties-loader.git"
+  },
+  "author": "hooriza@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "properties": "^1.2.1"
+  }
+}
