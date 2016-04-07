@@ -1,5 +1,5 @@
 {
-  "name": "webpack-properties-loader",
+  "name": "properties-loader",
   "version": "0.0.1",
   "description": "Properties loader for webpack",
   "repository": {
