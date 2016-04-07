@@ -2,7 +2,7 @@
 
 ## Installation
 
-`npm install https://github.com/hooriza/properties-loader.git`
+`npm install webpack-properties-loader`
 
 ## Usage
 
