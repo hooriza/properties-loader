@@ -2,7 +2,7 @@
 
 ## Installation
 
-`npm install webpack-properties-loader`
+`npm install ...`
 
 ## Usage
 
